@@ -28,7 +28,6 @@ A simple and clean live news application that fetches the latest headlines based
 
 This app uses [NewsAPI](https://newsapi.org/) to retrieve the latest news.
 
-> ⚠️ Note: You must register for your own API key at [newsapi.org](https://newsapi.org/). Never expose your production API key in frontend code.
 
 ---
 
@@ -63,11 +62,6 @@ NEWS_WEB/
 
 ---
 
-## ✍️ Author
-
-- **Your Name** – [https://github.com/NaviJha](https://github.com/NaviJha)
-
----
 
 ## 📄 License
 
